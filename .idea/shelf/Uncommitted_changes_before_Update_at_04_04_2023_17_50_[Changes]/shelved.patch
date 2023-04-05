@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ed8cfb16-9fc3-42a4-a3da-6c3252059bda\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/main.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/media.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/images/svg/asterisk.svg\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/images/svg/asterisk.svg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/js/menu.min.js\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2NRpkZTpyFg6mpCNnZlPBx19QYc\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;D:/Веб-дизайн/study-projects/odigo/css/style.css&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Веб-дизайн\\Портфолио\\luxury_shop\\backup\" />\r\n      <recent name=\"D:\\Веб-дизайн\\Портфолио\\luxury_shop\\attempts\" />\r\n      <recent name=\"D:\\Веб-дизайн\\Портфолио\\luxury_shop\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ed8cfb16-9fc3-42a4-a3da-6c3252059bda\" name=\"Changes\" comment=\"\" />\r\n      <created>1679636897482</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1679636897482</updated>\r\n      <workItem from=\"1679636898629\" duration=\"2022000\" />\r\n      <workItem from=\"1679639000062\" duration=\"28960000\" />\r\n      <workItem from=\"1679739979064\" duration=\"12122000\" />\r\n      <workItem from=\"1679832679201\" duration=\"7485000\" />\r\n      <workItem from=\"1679843489939\" duration=\"8725000\" />\r\n      <workItem from=\"1679886486098\" duration=\"19584000\" />\r\n      <workItem from=\"1679928574635\" duration=\"8542000\" />\r\n      <workItem from=\"1679981986035\" duration=\"26047000\" />\r\n      <workItem from=\"1680067961165\" duration=\"29883000\" />\r\n      <workItem from=\"1680154673552\" duration=\"27015000\" />\r\n      <workItem from=\"1680241311022\" duration=\"24848000\" />\r\n      <workItem from=\"1680337513646\" duration=\"10366000\" />\r\n      <workItem from=\"1680422368230\" duration=\"11806000\" />\r\n      <workItem from=\"1680500852242\" duration=\"11920000\" />\r\n      <workItem from=\"1680521059479\" duration=\"16862000\" />\r\n      <workItem from=\"1680587201040\" duration=\"11167000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 48bf402dc1928581ab8bbf35c3652f73e4953d62)
++++ b/.idea/workspace.xml	(date 1680619806158)
+@@ -1,14 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="ed8cfb16-9fc3-42a4-a3da-6c3252059bda" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/media.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/images/svg/asterisk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/svg/asterisk.svg" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/js/menu.min.js" beforeDir="false" />
+-    </list>
++    <list default="true" id="ed8cfb16-9fc3-42a4-a3da-6c3252059bda" name="Changes" comment="Update index.html" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -24,6 +17,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="Mikhail &lt;125207085+dailydev59@users.noreply.github.com&gt;" />
++      </list>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+@@ -77,8 +75,16 @@
+       <workItem from="1680422368230" duration="11806000" />
+       <workItem from="1680500852242" duration="11920000" />
+       <workItem from="1680521059479" duration="16862000" />
+-      <workItem from="1680587201040" duration="11167000" />
++      <workItem from="1680587201040" duration="12520000" />
+     </task>
++    <task id="LOCAL-00001" summary="Update index.html">
++      <created>1680613946207</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1680613946207</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -96,6 +102,7 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <option name="LAST_COMMIT_MESSAGE" value="" />
++    <MESSAGE value="Update index.html" />
++    <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
+   </component>
+ </project>
+\ No newline at end of file

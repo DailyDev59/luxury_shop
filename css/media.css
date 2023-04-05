@@ -911,7 +911,7 @@
         letter-spacing: 2px;
     }
     .anim__title {
-        padding: 0;
+        padding-left: 5px;
     }
     .prop__text {
         width: 360px;
